@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BasicLab</string>
+    <!-- Akcje -->
+    <string name="action_1">Akcja 1</string>
+    <string name="action_2">Akcja 2</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="goto2">Goto 2</string>
+    <string name="goto3">Goto 3</string>
+    <string name="goto1">Goto 1</string>
+    <string name="hello_first_fragment">Witaj pierwszy fragment</string>
+    <string name="hello_second_fragment">Witaj drugi fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Witaj</string>
+</resources>
